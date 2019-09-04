@@ -62,7 +62,7 @@ In this case, as the device is restarting every time it attempts a connection wi
 
 ### Configuring
 
-By default the PoC access point have the following default configuration:
+By default the PoC access point has the following default configuration:
 
 * ssid=TEST_KRA
 * channel=9
